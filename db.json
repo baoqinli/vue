@@ -1,0 +1,35 @@
+{
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "新闻条目1",
+      "url": "http://starcraft.com"
+    },
+    {
+      "id": 2,
+      "title": "新闻条目2",
+      "url": "http://warcraft.com"
+    },
+    {
+      "id": 3,
+      "title": "新闻条3",
+      "url": "http://overwatch.com"
+    },
+    {
+      "id": 4,
+      "title": "新闻条4",
+      "url": "http://hearstone.com"
+    }
+  ],
+  "getPrice": {
+    "amount":999
+  },
+  "createOrder": {
+    "orderId": "6djk979"
+  },
+  "getOrderList": {},
+  "login": {
+    "username": "yoads",
+    "userId": 98798798
+  }
+}
